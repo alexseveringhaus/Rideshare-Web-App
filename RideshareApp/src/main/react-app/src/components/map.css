@@ -1,0 +1,10 @@
+.map-container {
+    width: 50vw;   /* Full viewport width */
+    height: 50vh;  /* Full viewport height */
+    position: relative; /* Ensures proper positioning if overlays are added */
+    background-color: #f3f4f6; /* Light gray background color while the map loads */
+    border: 1px solid #e5e7eb; /* Optional border for clarity */
+    
+    margin-left: auto;
+    margin-right: auto;
+}
