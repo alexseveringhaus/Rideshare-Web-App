@@ -52,5 +52,5 @@ This repository contains the project where I built a Java-based, AJAX-integrated
 
 ## Viewing Website
 1. After starting the Java server, go to your preferred browser
-2. Type in localhost:8080/ or check other port availability to the address bar to view the website 
+2. Type in localhost:3000/ or check other port availability to the address bar to view the website 
 3. Alternatively, navigate to the project directory in the command line and then run npm start
