@@ -2,11 +2,11 @@
 This repository contains the project where I built a Java-based, AJAX-integrated web app to promote USC rideshare.
 
 ## Prerequisites
-React.js (version 18+)
-Node.js (version 19+)
-Java (version 1.8)
-Tomcat (version 9 or 10)
-mySQL (version 5.6+)
+- React.js (version 18+)
+- Node.js (version 19+)
+- Java (version 1.8)
+- Tomcat (version 9 or 10)
+- mySQL (version 5.6+)
 
 ## Installations
 ### Front end:
